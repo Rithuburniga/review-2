@@ -1,0 +1,9 @@
+.container{
+    background: radial-gradient( #F0FFFF,#FBEBD2 ) 
+    
+}
+body{
+    margin:0%;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+}
